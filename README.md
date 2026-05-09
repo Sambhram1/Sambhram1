@@ -2,6 +2,8 @@
 
 Builder-focused developer contributing across open source, frontend systems, developer tooling, and cloud-native products.
 
+Currently focused on shipping practical fixes across upstream open-source projects.
+
 [LinkedIn](https://www.linkedin.com/in/sambhram-rane-24a7722b9/) • [Email](mailto:sambhram0803@gmail.com)
 
 ## What I'm Working On
